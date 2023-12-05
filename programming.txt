@@ -4,3 +4,6 @@
 4. Java
 5. C#
 6.JavaScript
+
+7. FORTRAN
+8. Pascal
