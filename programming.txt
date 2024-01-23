@@ -7,7 +7,3 @@
 
 7. FORTRAN
 8. Pascal
-These are some of the programming languages.
-9. cobal
-10.HTML
-11.django
